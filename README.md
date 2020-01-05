@@ -1,7 +1,7 @@
 #### PYTHON PROJECT
 [Pythonanywhere主页](http://fangqiao07.pythonanywhere.com/?)
 
--整个交互网站11个页面url组成，项目依赖FLASk，pyecharts等；
+- 整个交互网站11个页面url组成，项目依赖FLASk，pyecharts等；
 - 项目启动命令：python app.py
 ### 首页
 - 交互网页的首页是2014-2017城市绿化覆盖率的中国地图。
