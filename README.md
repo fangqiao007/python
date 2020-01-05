@@ -1,5 +1,5 @@
 #### PYTHON PROJECT
--[Pythonanywhere主页]（http://fangqiao07.pythonanywhere.com/?）
+[Pythonanywhere主页]（http://fangqiao07.pythonanywhere.com/?）
 -整个交互网站11个页面url组成，项目依赖FLASk，pyecharts等；
 - 项目启动命令：python app.py
 ### 首页
